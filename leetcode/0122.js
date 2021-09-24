@@ -40,7 +40,5 @@ var maxProfit = function (prices) {
     }
   });
 
-  console.log(points);
+  return ans;
 };
-
-maxProfit([7, 1, 5, 3, 6, 4]);
